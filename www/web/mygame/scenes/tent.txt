@@ -1,0 +1,4 @@
+As you're un-staking your tent from the ground, you remember that you left your Tabula Rasa signet ring inside. You hurry inside to get it. On the right is a symbol of a cloak and dagger; this is your official seal for closing letters and such. Once you put it back on your finger, you finish folding up your tent. You decide to go talk to the night shift members who haven't already gone to sleep.
+
+*choice
+  *goto_scene nightevent

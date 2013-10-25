@@ -1,0 +1,12 @@
+You walk over to the bonfire, appreciating the warm glow of the fire on this frigid morning. You grab a bowl of grub and sit down in front of the fire and devour it; you hadn't realized you were so hungry. As you're eating, you overhear a conversation between two mercenaries sitting near you.
+
+"Did you hear about last night? Apparently Rob went missing on his night shift. They haven't found him yet," says the first man.
+"Really? I always told him to pay more attention. Just because it's night doesnt mean there isn't anything out there," replied the other.
+
+You decide that you should investigate this piece of information later.
+
+*choice
+  #Strike your tent and make ready to leave.
+    *goto_scene tent
+  #Ask the night guards if anything happened overnight.
+    *goto_scene nightevent
